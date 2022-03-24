@@ -1,0 +1,16 @@
+body {
+    font-family: 'Maven Pro', sans-serif;
+    
+}
+.circle {
+    width: 170px;
+    height: 170px;
+    border-radius: 170%;
+}
+.fotter-bg {
+    background-color: rgb(31, 30, 30);
+} 
+ 
+.btn:hover {
+    transition: 0.25;
+    box-shadow: 0px 2px 10px;
